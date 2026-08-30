@@ -1,0 +1,30 @@
+Better Windows — Licence propriétaire
+Copyright (c) 2026 PRODR350. Tous droits réservés.
+
+Ce dépôt distribue uniquement des binaires compilés. Le code source n'est pas public
+et n'est pas concédé sous licence.
+
+CE QUI EST AUTORISÉ
+
+  - Télécharger, installer et utiliser le logiciel sur les machines dont vous avez
+    la charge, à titre personnel ou professionnel.
+  - En parler, en faire des captures, le recommander.
+
+CE QUI NE L'EST PAS
+
+  - Redistribuer, revendre, louer ou héberger le logiciel ou son installeur.
+  - Décompiler, désassembler, faire de la rétro-ingénierie, ou tenter de reconstituer
+    le code source par quelque moyen que ce soit, sauf dans la stricte mesure où la loi
+    applicable l'autorise malgré cette interdiction.
+  - Modifier, adapter ou créer des œuvres dérivées.
+  - Retirer ou masquer les mentions de propriété.
+
+ABSENCE DE GARANTIE
+
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte, explicite ou
+implicite. L'auteur ne saurait être tenu responsable d'un dommage résultant de son
+utilisation.
+
+Cela dit, le logiciel crée un point de restauration système et une sauvegarde du
+registre avant toute modification, et chaque changement est réversible depuis
+l'interface. Ce n'est pas une garantie juridique — c'est la façon dont il est conçu.
